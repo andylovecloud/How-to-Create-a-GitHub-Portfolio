@@ -21,7 +21,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
-- How to Customize your MarkDown files?()
+- [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
 
 ## Introduction
 
