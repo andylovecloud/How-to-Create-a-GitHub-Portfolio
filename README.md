@@ -1,4 +1,4 @@
-# 🤔 How-to-Create-a-GitHub-Portfolio
+# 🤔 How to Create a GitHub Portfolio
 
 Hello there, I'm Andy! 🙋 This is a basic guide to create your GitHub portfolio for beginner.
 
@@ -23,7 +23,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
 - [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
-- [What to write on your GitHub Profile?]()
+- [What to write on your GitHub Profile?](#-what-to-write-how-to-make-your-github-profile-stand-out-)
 - [How to Fork / Clone a Repository (or clone this repository 🤪) ?](#how-to-fork--clone-a-repository-or-clone-this-repository)
 
 ## Introduction
