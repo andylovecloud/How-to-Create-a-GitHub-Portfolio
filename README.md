@@ -39,10 +39,13 @@ Oh, and guess what? You don’t need to download GitHub Desktop to get started. 
 ## How to Build Your GitHub Profile Like a Pro?
 
 
-If you want to make the impresss porfolio like mine as below. Follow these simple steps:
+Do you want to make the impresss porfolio like mine?
+
 <hr>
 <img width="1258" alt="Screenshot 2025-01-29 at 10 23 35" src="https://github.com/user-attachments/assets/7d1019a1-6729-473a-95d9-6b7e9ad6c981" />
 <hr>
+
+Follow these below simple steps:
 
 **Step 01**:  
 
