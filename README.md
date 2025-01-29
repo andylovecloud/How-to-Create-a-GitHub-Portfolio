@@ -5,7 +5,9 @@ Hello there, I'm Andy! 🙋 This is a basic guide to create your GitHub portfoli
 ### It's aim to :
 
 👉🏻 Beginners in IT or whoever looking to showcase samples of work, or projects.
+
 👉🏻 Build your digital resume to demonstrate your technical skills.
+
 👉🏻 A fun and visualized way to track of your projects.
 
 
