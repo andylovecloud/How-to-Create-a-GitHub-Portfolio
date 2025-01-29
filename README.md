@@ -23,7 +23,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
 - [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
-- [How to Fork / Clone a Repository (Ex: my repository??)?](#how-to-fork--clone-a-repository-or-clone-my-repository)
+- [How to Fork / Clone a Repository (or clone my repository 🤪) ?](#how-to-fork--clone-a-repository-or-clone-my-repository)
 
 ## Introduction
 
@@ -40,7 +40,9 @@ Oh, and guess what? You don’t need to download GitHub Desktop to get started. 
 
 
 If you want to make the impresss porfolio like mine as below. Follow these simple steps:
+<hr>
 <img width="1258" alt="Screenshot 2025-01-29 at 10 23 35" src="https://github.com/user-attachments/assets/7d1019a1-6729-473a-95d9-6b7e9ad6c981" />
+<hr>
 
 **Step 01**:  
 
