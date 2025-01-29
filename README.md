@@ -20,8 +20,8 @@ However, since nearly at the end of my 2nd Bachelor (2024), I've become quite ob
 Now, I'm excited to share this knowledge with everyone. 🙂
 
 # Table of content
-- [How to Build your GitHub Profile like a Pro?]()
--b
+- [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
+- How to Customize your MarkDown files?()
 
 ## Introduction
 
@@ -42,7 +42,12 @@ If you want to make the impresss porfolio like mine as below. Follow these simpl
 
 **Step 01**:  
 
+**Step 02**
 
+**Step 03**
+
+
+## How to Add Your Personal Touch / Customize to Markdown Files?
 
 
 
