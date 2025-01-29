@@ -34,7 +34,15 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 Oh, and guess what? You don’t need to download GitHub Desktop to get started. Your browser is all set to be your sidekick. No capes required. 😉
 
 
-**How to Build Your GitHub Profile Like a Pro?** 
+## How to Build Your GitHub Profile Like a Pro?
+
+
+If you want to make the impresss porfolio like mine as below. Follow these simple steps:
+<img width="1258" alt="Screenshot 2025-01-29 at 10 23 35" src="https://github.com/user-attachments/assets/7d1019a1-6729-473a-95d9-6b7e9ad6c981" />
+
+**Step 01**:  
+
+
 
 
 
