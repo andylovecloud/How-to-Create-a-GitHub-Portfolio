@@ -19,10 +19,11 @@ However, since nearly at the end of my 2nd Bachelor (2024), I've become quite ob
 
 Now, I'm excited to share this knowledge with everyone. 🙂
 
+
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
 - [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
-- [How to Fork / Clone a Repository (Ex: my repository??)?]()
+- [How to Fork / Clone a Repository (Ex: my repository??)?](#how-to-fork--clone-a-repository-or-clone-my-repository)
 
 ## Introduction
 
