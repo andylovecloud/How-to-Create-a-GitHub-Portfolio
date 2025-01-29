@@ -66,9 +66,11 @@ The file format for the profile is Markdown (.md). By default, the name of the f
 
 Now, start writing your profile! 😄 Once you're done, scroll up and click **Commit changes**.
 
-**<ins> Best practice </ins>:** input the time when you commit the changes or with reason of changes for easy to remind later on.
+<img width="646" alt="Screenshot 2025-01-29 at 13 14 07" src="https://github.com/user-attachments/assets/e01162d9-7a56-4233-af39-304a2e1b2914" />
 
-## 📝 What to write? How to make your GitHub Profile Stand Out!** 🚀  
+**<ins> Best practice </ins>:** input the **time** when you commit the changes or with **reason of changes** for easy to remind later on.
+
+## 📝 What to write? How to make your GitHub Profile Stand Out! 🚀  
 
 Want to create an eye-catching profile? Here’s what you can include:  
 
@@ -125,6 +127,9 @@ No worries—GitHub lets you peek behind the curtain!
 <hr>
 
 Just check out their **README.md** file or other Markdown files in the repo. 
+
+<img width="582" alt="Screenshot 2025-01-29 at 12 41 40" src="https://github.com/user-attachments/assets/89a7e67b-c831-49de-b787-a5f7c7653ced" />
+
 
 Click on the file, hit the "**Raw**" button, and boom—you’ll see the magic behind the formatting.
 
