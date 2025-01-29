@@ -23,6 +23,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
 - [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
+- [What to write on your GitHub Profile?]()
 - [How to Fork / Clone a Repository (or clone this repository 🤪) ?](#how-to-fork--clone-a-repository-or-clone-this-repository)
 
 ## Introduction
@@ -65,7 +66,7 @@ The file format for the profile is Markdown (.md). By default, the name of the f
 
 Now, start writing your profile! 😄 Once you're done, scroll up and click **Commit changes**.
 
-**<u>Best practice</u>:** input the time when you commit the changes or with reason of changes for easy to remind later on.
+**<ins> Best practice </ins>:** input the time when you commit the changes or with reason of changes for easy to remind later on.
 
 ## 📝 What to write? How to make your GitHub Profile Stand Out!** 🚀  
 
@@ -91,7 +92,7 @@ GitHub’s Markdown guides are as user-friendly as they come! Here are some top-
 
 📌 [Creating and Highlighting Code Blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks): Perfect for showcasing your SQL, Python, or other code snippets in style.
 
-Bonus tip: Sprinkle some personality into your Markdown with emojis! 🌟🙌🏻🙋📚🌤
+**<ins>Bonus tip</ins>**: Sprinkle some personality into your Markdown with emojis! 🌟🙌🏻🙋📚🌤
 
 - 🪟 Windows: Press **Windows** logo key **+ . (period)**
 - 🖥️ Mac:     Press **Control + Command + Spacebar**
