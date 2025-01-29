@@ -83,13 +83,13 @@ No worries—GitHub lets you peek behind the curtain!
   <img width="631" alt="Screenshot 2025-01-29 at 12 11 10" src="https://github.com/user-attachments/assets/162f80de-f245-4654-b91f-f8838a691879" />
 <hr>
 
-**Step 2: Create fork**
+**Step 2:** Create folder with the name you want and click **Create fork**
 
 <hr>
   <img width="903" alt="Screenshot 2025-01-29 at 12 15 22" src="https://github.com/user-attachments/assets/cec73b78-2166-4275-8e36-bc0725ff6073" />
 <hr>
 
-**Step 2**: Check whether the folder already under your name now.
+**Step 3**: Check whether the folder already under your name. If yes, congrastulation :) 
 
 <hr>
   <img width="382" alt="Screenshot 2025-01-29 at 12 15 55" src="https://github.com/user-attachments/assets/bffa5c4c-a842-4bdd-8b18-9294fb47043b" />
