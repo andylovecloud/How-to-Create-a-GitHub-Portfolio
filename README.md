@@ -22,6 +22,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
 - [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
+- [How to Fork / Clone a Repository (Ex: my repository??)?]()
 
 ## Introduction
 
@@ -48,6 +49,26 @@ If you want to make the impresss porfolio like mine as below. Follow these simpl
 
 
 ## How to Add Your Personal Touch / Customize to Markdown Files?
+
+GitHub’s Markdown guides are as user-friendly as they come! Here are some top-notch resources to help you style your Markdown files like a pro:
+
+📌 [Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): Learn how to customize Markdown files with GitHub's comprehensive guide.
+
+📌 [Organizing Information with Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables): Want neat tables? This guide has your back!
+
+📌 [Creating and Highlighting Code Blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks): Perfect for showcasing your SQL, Python, or other code snippets in style.
+
+Bonus tip: Sprinkle some personality into your Markdown with emojis! 🌟🙌🏻🙋📚🌤
+
+- Windows: Press Windows logo key + . (period)
+- Mac: Press Control + Command + Spacebar
+
+
+## How to Fork / Clone a Repository (or clone my repository)?
+
+
+
+
 
 
 
