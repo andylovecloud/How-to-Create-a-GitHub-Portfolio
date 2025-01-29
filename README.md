@@ -66,8 +66,8 @@ GitHub’s Markdown guides are as user-friendly as they come! Here are some top-
 
 Bonus tip: Sprinkle some personality into your Markdown with emojis! 🌟🙌🏻🙋📚🌤
 
-- Windows: Press Windows logo key + . (period)
-- Mac: Press Control + Command + Spacebar
+- 🪟 Windows: **Press Windows logo key + . (period)**
+- 🖥️ Mac: **Press Control + Command + Spacebar**
 
 
 ## How to Fork / Clone a Repository (or clone this repository)?
