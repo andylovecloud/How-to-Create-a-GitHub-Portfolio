@@ -51,12 +51,13 @@ Follow these below simple steps:
 
 <img width="246" alt="Screenshot 2025-01-29 at 12 32 20" src="https://github.com/user-attachments/assets/f16ce241-1b3a-4148-991a-e2020c26e415" />
 
+
 **Step 02:** Create a new repository with the **exact same name** as your **username**.
 
 <img width="322" alt="Screenshot 2025-01-29 at 12 36 29" src="https://github.com/user-attachments/assets/adb4d4bd-cc85-406c-af80-c6d6f9d5d4f8" />
 
 
-**Step 03: **  Edit **Readme.md** file
+**Step 03:**  Edit **Readme.md** file
 
 The file format for the profile is Markdown (.md). By default, the name of the file is **README.md,** so you can leave it as it is.
 
