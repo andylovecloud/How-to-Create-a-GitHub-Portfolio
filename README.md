@@ -23,7 +23,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 # Table of content
 - [How to Build your GitHub Profile like a Pro?](#how-to-build-your-github-profile-like-a-pro)
 - [How to Customize your MarkDown files?](#how-to-add-your-personal-touch--customize-to-markdown-files)
-- [How to Fork / Clone a Repository (or clone my repository 🤪) ?](#how-to-fork--clone-a-repository-or-clone-my-repository)
+- [How to Fork / Clone a Repository (or clone this repository 🤪) ?](#how-to-fork--clone-a-repository-or-clone-this-repository)
 
 ## Introduction
 
@@ -70,7 +70,7 @@ Bonus tip: Sprinkle some personality into your Markdown with emojis! 🌟🙌�
 - Mac: Press Control + Command + Spacebar
 
 
-## How to Fork / Clone a Repository (or clone my repository)?
+## How to Fork / Clone a Repository (or clone this repository)?
 
 
 
