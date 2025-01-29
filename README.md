@@ -73,18 +73,22 @@ Bonus tip: Sprinkle some personality into your Markdown with emojis! 🌟🙌�
 ## How to Fork / Clone a Repository (or clone this repository)?
 
 Let’s say you stumble upon an awesome repo, and you’re thinking, "Whoa! How did they add those slick icons, a Twitter button, and all the cool stuff?" 🤔✨
-
-<img width="1309" alt="Screenshot 2025-01-29 at 12 08 27" src="https://github.com/user-attachments/assets/150e061f-715a-41a2-aeec-7845525b9b6a" />
-
+<hr>
+  <img width="1309" alt="Screenshot 2025-01-29 at 12 08 27" src="https://github.com/user-attachments/assets/150e061f-715a-41a2-aeec-7845525b9b6a" />
+<hr>
 No worries—GitHub lets you peek behind the curtain! 
 
 **Step 1**: Click on the fork🍴 icon at the top right of the page and **Create fork**
-<img width="631" alt="Screenshot 2025-01-29 at 12 11 10" src="https://github.com/user-attachments/assets/162f80de-f245-4654-b91f-f8838a691879" />
-<img width="903" alt="Screenshot 2025-01-29 at 12 15 22" src="https://github.com/user-attachments/assets/cec73b78-2166-4275-8e36-bc0725ff6073" />
+<hr>
+  <img width="631" alt="Screenshot 2025-01-29 at 12 11 10" src="https://github.com/user-attachments/assets/162f80de-f245-4654-b91f-f8838a691879" />
+<hr>
+  <img width="903" alt="Screenshot 2025-01-29 at 12 15 22" src="https://github.com/user-attachments/assets/cec73b78-2166-4275-8e36-bc0725ff6073" />
+<hr>
 
 **Step 2**: Check whether the folder already under your name now.
-<img width="382" alt="Screenshot 2025-01-29 at 12 15 55" src="https://github.com/user-attachments/assets/bffa5c4c-a842-4bdd-8b18-9294fb47043b" />
-
+<hr>
+  <img width="382" alt="Screenshot 2025-01-29 at 12 15 55" src="https://github.com/user-attachments/assets/bffa5c4c-a842-4bdd-8b18-9294fb47043b" />
+<hr>
 
 Just check out their **README.md **file or other Markdown files in the repo. Click on the file, hit the "Raw" button, and boom—you’ll see the magic behind the formatting.
 
@@ -94,9 +98,10 @@ Want to try it yourself? Look for Markdown tricks like:
 🔗 HTML snippets for buttons (yep, Markdown supports HTML!)
 🐦 Twitter embeds for social links
 
+
 Now go forth and reverse-engineer like a pro! 🔥😎
 
-# If you like this guideline , please give this repo a Star 🌟 Happy GitHub-ing! 🙆
+## If you like this guideline , please give this repo a Star 🌟 Happy GitHub-ing! 🙆
 
 
 
