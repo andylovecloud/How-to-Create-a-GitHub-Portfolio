@@ -100,6 +100,7 @@ GitHub’s Markdown guides are as user-friendly as they come! Here are some top-
 - 🖥️ Mac:     Press **Control + Command + Spacebar**
 
 
+
 ## How to Fork / Clone a Repository (or clone this repository)?
 
 Let’s say you stumble upon an awesome repo, and you’re thinking, "Whoa! How did they add those slick icons, a Twitter button, and all the cool stuff?" 🤔✨
@@ -111,20 +112,19 @@ No worries—GitHub lets you peek behind the curtain!
 
 ### **Step 1**: Click on the fork🍴 icon at the top right of the page 
 
-  <img width="631" alt="Screenshot 2025-01-29 at 12 11 10" src="https://github.com/user-attachments/assets/162f80de-f245-4654-b91f-f8838a691879" />
+<img width="1298" alt="Screenshot 2025-01-29 at 12 08 27" src="https://github.com/user-attachments/assets/3386556b-e562-4f03-b60f-1cbb03f3dfa7" />
 
 
 ### **Step 2:** Create folder with the name you want and click **Create fork**
 
+<img width="903" alt="Screenshot 2025-01-29 at 12 15 22" src="https://github.com/user-attachments/assets/1bd9335d-a4a6-44aa-bcc4-98dfde8caff8" />
 
-  <img width="903" alt="Screenshot 2025-01-29 at 12 15 22" src="https://github.com/user-attachments/assets/cec73b78-2166-4275-8e36-bc0725ff6073" />
-<hr>
 
 ### **Step 3**: Check whether the folder already under your name. If yes, congrastulation :) 
 
 
   <img width="382" alt="Screenshot 2025-01-29 at 12 15 55" src="https://github.com/user-attachments/assets/bffa5c4c-a842-4bdd-8b18-9294fb47043b" />
-<hr>
+
 
 Just check out their **README.md** file or other Markdown files in the repo. 
 
