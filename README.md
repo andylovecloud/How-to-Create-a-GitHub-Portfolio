@@ -42,33 +42,34 @@ Oh, and guess what? You don’t need to download GitHub Desktop to get started. 
 
 Do you want to make the impresss porfolio like mine?
 
-<hr>
-<img width="1258" alt="Screenshot 2025-01-29 at 10 23 35" src="https://github.com/user-attachments/assets/7d1019a1-6729-473a-95d9-6b7e9ad6c981" />
-<hr>
+
+  <img width="1258" alt="Screenshot 2025-01-29 at 10 23 35" src="https://github.com/user-attachments/assets/7d1019a1-6729-473a-95d9-6b7e9ad6c981" />
+
 
 Follow these below simple steps:
 
-### **Step 01:** Click the **+** button on the top and create **new respository**
+### **<ins>Step 01:</ins>** Click the **+** button on the top and create **new respository**
 
 <img width="246" alt="Screenshot 2025-01-29 at 12 32 20" src="https://github.com/user-attachments/assets/f16ce241-1b3a-4148-991a-e2020c26e415" />
 
 
-### **Step 02:** Create a new repository with the **exact same name** as your **username**.
+### **<ins>Step 02:</ins>** Create a new repository with the **exact same name** as your **username**.
 
 <img width="322" alt="Screenshot 2025-01-29 at 12 36 29" src="https://github.com/user-attachments/assets/adb4d4bd-cc85-406c-af80-c6d6f9d5d4f8" />
 
 
-### **Step 03:**  Edit **Readme.md** file
+### ** <ins>Step 03:<\ins>**  Edit **Readme.md** file
 
-The file format for the profile is Markdown (.md). By default, the name of the file is **README.md,** so you can leave it as it is.
+  The file format for the profile is Markdown (.md). By default, the name of the file is **README.md,** so you can leave it as it is.
 
-<img width="582" alt="Screenshot 2025-01-29 at 12 41 40" src="https://github.com/user-attachments/assets/7979c2c4-b4ce-4fa6-ae86-afc36d163c86" />
+  <img width="582" alt="Screenshot 2025-01-29 at 12 41 40" src="https://github.com/user-attachments/assets/7979c2c4-b4ce-4fa6-ae86-afc36d163c86" />
 
-Now, start writing your profile! 😄 Once you're done, scroll up and click **Commit changes**.
+  Now, start writing your profile! 😄 Once you're done, scroll up and click **Commit changes**.
 
 <img width="646" alt="Screenshot 2025-01-29 at 13 14 07" src="https://github.com/user-attachments/assets/e01162d9-7a56-4233-af39-304a2e1b2914" />
 
 **<ins> Best practice </ins>:** input the **time** when you commit the changes or with **reason of changes** for easy to remind later on.
+
 
 ## 📝 What to write? How to make your GitHub Profile Stand Out! 🚀  
 
