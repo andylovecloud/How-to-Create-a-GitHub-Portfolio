@@ -37,7 +37,7 @@ Now, I'm excited to share this knowledge with everyone. 🙂
 Oh, and guess what? You don’t need to download GitHub Desktop to get started. Your browser is all set to be your sidekick. No capes required. 😉
 
 
-## How to Build Your GitHub Profile Like a Pro?
+## How to Build Your GitHub Profile Like a Pro ?
 
 
 Do you want to make the impresss porfolio like mine?
@@ -58,7 +58,7 @@ Follow these below simple steps:
 <img width="322" alt="Screenshot 2025-01-29 at 12 36 29" src="https://github.com/user-attachments/assets/adb4d4bd-cc85-406c-af80-c6d6f9d5d4f8" />
 
 
-### ** <ins>Step 03:</ins>**  Edit **Readme.md** file
+### **<ins>Step 03:</ins>**  Edit **Readme.md** file
 
   The file format for the profile is Markdown (.md). By default, the name of the file is **README.md,** so you can leave it as it is.
 
